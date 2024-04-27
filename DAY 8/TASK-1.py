@@ -5,9 +5,9 @@ chosen_word = random.choice(word_list)
 
 guess = input("Guess a letter: ").lower()
 
-chosen_word_lst = [*chosen_word]
-for letter in chosen_word_lst:
-    if guess == chosen_word_lst:
-        print("Oh Yes!")
+
+for letter in chosen_word:
+    if guess == letter:
+        print("right")
     else:
-        print(chosen_word_lst)
+        print("wrong")
