@@ -21,11 +21,11 @@ I learned about the basic Python functions like ‘print’, ‘input’ and Dat
 
 Created a simple project that can generate band names based on user's input. 
    
-Link to work: DAY 1 
+Link to work: [DAY 1](https://github.com/sushantcodess/100-Days-of-Code/tree/main/DAY%201) 
 
 ### Day 2
 I learned about the Python functions such as round and learnt more about datatypes like float, Boolean, etc.
 
 Created a Tip Calculator as a project which can split the bill equally among a group of people. 
 
-Link to work: DAY 2 
+Link to work: [DAY 2](https://github.com/sushantcodess/100-Days-of-Code/tree/main/DAY%202)
