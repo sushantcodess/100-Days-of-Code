@@ -6,24 +6,26 @@ I am trying to achieve this by coding, learning and practicing new concepts dail
 
 
 ## Goals of this Challenge
-Consistency: Code for a minimum of one hour every day.
+Consistency : Code for a minimum of one hour every day.
 
-Learning: Explore, learn and master new concepts.
+Learning : Explore, learn and master new concepts.
 
-Projects: Work on personal or collaborative projects that will give practical guide to applications of the language while also build my portfolio simultaneously.
+Projects : Work on personal or collaborative projects that will give practical guide to applications of the language while also build my portfolio simultaneously.
 
-Document Progress: Update the log file with daily progress, learnings, challenges, and achievements.
+Document Progress : Update the log file with daily progress, learnings, challenges, and achievements.
 
 ## Log
 
 ### Day 1
 I learned about the basic Python functions like ‘print’, ‘input’ and Datatypes.
+
 Created a simple project that can generate band names based on user's input. 
    
 Link to work: DAY 1 
 
 ### Day 2
-I learned about the Python functions such as round and learnt more about datatypes like float, Boolean, etc. 
+I learned about the Python functions such as round and learnt more about datatypes like float, Boolean, etc.
+
 Created a Tip Calculator as a project which can split the bill equally among a group of people. 
 
 Link to work: DAY 2 
