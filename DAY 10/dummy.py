@@ -1,5 +1,9 @@
-def format_name(f_name, l_name):
-    print(f_name.title())
-    print(l_name.title())
-format_name("sushant", "aggarwal")
-
+def checkOddEven(x):
+    if(x % 2 == 0):
+      # Complete the statement below
+      return "Even"
+    else:
+        # Complete the statement below
+        return "Odd"
+x = int(input())
+print(checkOddEven(x))
