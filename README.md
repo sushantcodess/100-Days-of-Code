@@ -29,3 +29,8 @@ I learned about the Python functions such as round and learnt more about datatyp
 Created a Tip Calculator as a project which can split the bill equally among a group of people. 
 
 Link to work: [DAY 2](https://github.com/sushantcodess/100-Days-of-Code/tree/main/DAY%202)
+
+### Day 3
+I learned about conditional statements and logical flow a problem. This concept is essential for my problem solving approach and flow of the problem. I learned about if, else and elif statements.
+Created a simple program for generating tickets for a Roller Coaster Ride generating ticket according to the different inputs from the users like their age, height. Also created a program for checking if the year is a leap year or not.
+Link to work: [DAY 3](https://github.com/sushantcodess/100-Days-of-Code/tree/main/DAY%203)
