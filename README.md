@@ -36,3 +36,13 @@ I learned about conditional statements and logical flow a problem. This concept 
 Created a simple program for generating tickets for a Roller Coaster Ride generating ticket according to the different inputs from the users like their age, height. Also created a program for checking if the year is a leap year or not.
 
 Link to work: [DAY 3](https://github.com/sushantcodess/100-Days-of-Code/tree/main/DAY%203)
+
+### Day 4
+I learned a new datatype i.e. the Lists in Python and also leant about modules in Python and worked on the random module.
+
+Created a simple game project based on the traditional Rock Paper Scissors game. I made the same game in Python using lists and random module.
+
+Link to work: [DAY 4](https://github.com/sushantcodess/100-Days-of-Code/tree/main/DAY%204)
+
+### Day 5
+
