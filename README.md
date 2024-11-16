@@ -45,4 +45,9 @@ Created a simple game project based on the traditional Rock Paper Scissors game.
 Link to work: [DAY 4](https://github.com/sushantcodess/100-Days-of-Code/tree/main/DAY%204)
 
 ### Day 5
+I learned about the Python Loops and created several working programs which helped me get a deeper understanding of the topic.
+
+Created a Password Generator Program as the Project which will suggest a strong password based on the users' input like length, number os symbols in password.
+
+Link to work: [DAY 5](https://github.com/sushantcodess/100-Days-of-Code/tree/main/DAY%205)
 
