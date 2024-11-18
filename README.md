@@ -51,3 +51,10 @@ Created a Password Generator Program as the Project which will suggest a strong 
 
 Link to work: [DAY 5](https://github.com/sushantcodess/100-Days-of-Code/tree/main/DAY%205)
 
+### Day 6
+I learned about the very important Python Functions concept. 
+
+Pacticed the concept on the interactive platform known by the name of Reeborg's World.
+
+Link to work: [DAY 6](https://github.com/sushantcodess/100-Days-of-Code/tree/main/DAY%206)
+
