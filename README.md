@@ -56,5 +56,5 @@ I learned about the very important Python Functions concept.
 
 Pacticed the concept on the interactive platform known by the name of Reeborg's World.
 
-Link to work: [DAY 6](https://github.com/sushantcodess/100-Days-of-Code/tree/main/DAY%206)
+Link to work: [DAY 6](https://github.com/sushantcodess/100-Days-of-Code/tree/main/DAY%20%206)
 
